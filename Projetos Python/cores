@@ -1,0 +1,12 @@
+cores no python:
+
+(\033[30m\033[m)
+
+30m *Branco  (\033[30m\033[m)
+31m *Vermelho (\033[31m\033[m)
+32m *Verde    (\033[32m\033[m)
+33m *Amarelo  (\033[33m\033[m)
+34m *Azul     (\033[34m\033[m)
+35m *Roxo     (\033[35m\033[m)
+36m *Azul claro (\033[36m\033[m)
+37m *Cinza    (\033[37m\033[m)
